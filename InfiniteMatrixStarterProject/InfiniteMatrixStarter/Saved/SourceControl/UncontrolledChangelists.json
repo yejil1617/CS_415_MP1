@@ -17,7 +17,20 @@
 				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset",
 				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_02.uasset",
 				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_03.uasset",
-				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_04.uasset"
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_04.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/WB_Score.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_Healthbar.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_Score.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Potions/Cork.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Potions/Glass.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Potions/PotionA.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Potions/BP_HealthPotion.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Cork.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Glass.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/PotionA.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPotion.uasset",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/yejilim2/Desktop/CS_415_MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
 			]
 		}
 	]
